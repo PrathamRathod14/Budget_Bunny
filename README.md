@@ -77,6 +77,9 @@ lib/
 assets/
 └─ images/               # App logo and branding images
 ```
+<p align="center">
+  <img src="assets/images/img6.png" alt="Budget Bunny App Preview" width="650">
+</p>
 
 ---
 ## Contact
@@ -86,6 +89,5 @@ Developed with care by **Pratham Rathod**.
 ---
 
 Thanks for checking out **Budget Bunny**—your friendly companion for smarter finances! 🐰💜
-
 ```
 
